@@ -14,3 +14,11 @@
 1. 간단하게 서버 올리는 중 -> AWS로 현재 진행중, 추후에 공유
 2. Next.js에 대한 조사중... 기능은 현재 파악했고 어떻게 서버로 올릴지 확인
 3. React 관련 개념 다시 복습... 안쓰니 어느 부분에서 갑자기 헷갈리는게 좀 생김
+
+
+
+
+프로젝트 받는 방법
+
+1. VSCode에서 프로젝트 진행할 폴더 만든 후 git init 
+2. git clone https://github.com/starapple33/ReactProject.git (절대 git pull을 쓰지 말 것!)
