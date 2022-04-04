@@ -37,3 +37,6 @@ https://kyounghwan01.github.io/blog/React/
 React hook ? Redux? 둘 중 하나만 쓰는거에 대한 오해
 https://delivan.dev/react/stop-asking-if-react-hooks-replace-redux-kr/
 짧은 결론 - 애초에 둘은 양립이 가능하며, hook -> 함수형 컴포넌트에도 상태 관리를 할 수 있도록 만듬, Redux -> 상태 관리용
+
+Webpack
+https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Webpack-%EA%B8%B0%EC%B4%88
